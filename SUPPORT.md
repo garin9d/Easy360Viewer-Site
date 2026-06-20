@@ -18,7 +18,6 @@ A. Please try the following:
 - Restart the app
 - Restart your iPhone
 - Reinstall the app
----
 ### Contact
 If your issue is not resolved by the FAQ, please contact us at:
 garin9d+easy360viewer@gmail.com

@@ -1,4 +1,3 @@
-```markdown
 # Privacy Policy / プライバシーポリシー
 [English](#english) | [日本語](#日本語)
 ---
@@ -37,4 +36,3 @@ garin9d+easy360viewer@gmail.com
 ### お問い合わせ
 ご不明な点がございましたら、以下までご連絡ください。
 garin9d+easy360viewer@gmail.com
-```
